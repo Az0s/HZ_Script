@@ -1,0 +1,9 @@
+{
+    "python.autoComplete.extraPaths": [
+    "/opt/homebrew/Cellar"
+    ],
+    "python.analysis.extraPaths": [
+        "/opt/homebrew/Cellar"
+    ],
+    "python.formatting.provider": "yapf"
+}

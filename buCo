@@ -1,0 +1,197 @@
+[
+    {
+        "domain": ".huazhu.com",
+        "expiry": 4101379200,
+        "httpOnly": false,
+        "name": "_hudPVID",
+        "path": "/",
+        "secure": false,
+        "value": "7"
+    },
+    {
+        "domain": ".m.huazhu.com",
+        "httpOnly": false,
+        "name": "Hm_lpvt_f14fa482025352f2dded0c2e008dd278",
+        "path": "/",
+        "secure": false,
+        "value": "1631448966"
+    },
+    {
+        "domain": ".huazhu.com",
+        "expiry": 1662984955,
+        "httpOnly": false,
+        "name": "_exid",
+        "path": "/",
+        "secure": false,
+        "value": "LGfEm9fxOJ4wQhcIXfYi3evrQI4OM5qQPCccuHXHEtI7Hh0M9%2FVxzB398myoSEFL6KaNZmNtpPCA5RMHlP4gyw%3D%3D"
+    },
+    {
+        "domain": ".huazhu.com",
+        "expiry": 1662984955,
+        "httpOnly": false,
+        "name": "_xid",
+        "path": "/",
+        "secure": false,
+        "value": "3brCMSDOPqvd3%2BSFf8uCfroi4HwtsTJ9URWtLLB7ZHOrF11d1LkYPHg8xMsWhrrlicv5IjO8rcvFzNdqqe5ViQ%3D%3D"
+    },
+    {
+        "domain": "m.huazhu.com",
+        "expiry": 1631450754,
+        "httpOnly": false,
+        "name": "NewH5DomainToken",
+        "path": "/",
+        "secure": false,
+        "value": "eyJhbGciOiJIUzI1NiIsInppcCI6IkRFRiJ9.eNpMjU1LxDAYhP_Le06gsUnTLuxhDysKigoq4q0f87qRfoQkXRTxv9ugB4_zMM_MF70nRzsqNDdKs5VseJCaO5Ztoa2E4rrorUVTViQort1WPhnZerdFF-NvjAhnhEzaRDtVlUrrujFWED78HzCFyiAsI7LVjw5z2hSPMGXwhnSLqUN4xORvcMZ4PfMi_JrEgBEJwi8xC9y7fx9VWRtBkxu2icvnF1ava391fDrdPRw_MV_c28N-T98_AAAA__8.YiyzphxGwGRWUN2n1JBHkBdCfQDFDZTDkhsCSNx2jJk"
+    },
+    {
+        "domain": ".m.huazhu.com",
+        "expiry": 1662984966,
+        "httpOnly": false,
+        "name": "Hm_lvt_f14fa482025352f2dded0c2e008dd278",
+        "path": "/",
+        "secure": false,
+        "value": "1631448953"
+    },
+    {
+        "domain": ".huazhu.com",
+        "expiry": 1631452521,
+        "httpOnly": true,
+        "name": "_HZ_SessionId",
+        "path": "/",
+        "secure": false,
+        "value": "Ql4GfAkPTONyd6185UPOBXhHhqzHvevI7WCdoIvbd5k="
+    },
+    {
+        "domain": ".huazhu.com",
+        "expiry": 1631450725,
+        "httpOnly": false,
+        "name": "gr_session_id_8f6e3e7f89d647cab9784afa81ea87bd_0caef979-8705-43d5-8033-5162eb9ea813",
+        "path": "/",
+        "secure": false,
+        "value": "true"
+    },
+    {
+        "domain": ".huazhu.com",
+        "expiry": 4101379200,
+        "httpOnly": false,
+        "name": "_hudSID_TS",
+        "path": "/",
+        "secure": false,
+        "value": "1631448969065"
+    },
+    {
+        "domain": ".huazhu.com",
+        "expiry": 1662984955,
+        "httpOnly": false,
+        "name": "ec",
+        "path": "/",
+        "secure": false,
+        "value": "vNLTsOTQ-1631448926464-85d8cb24a35331050870281"
+    },
+    {
+        "domain": ".huazhu.com",
+        "expiry": 1694520966,
+        "httpOnly": false,
+        "name": "_ga",
+        "path": "/",
+        "secure": false,
+        "value": "GA1.2.2008467017.1631448926"
+    },
+    {
+        "domain": "m.huazhu.com",
+        "httpOnly": true,
+        "name": "ASP.NET_SessionId",
+        "path": "/",
+        "secure": false,
+        "value": "q2j4qumpsgrqaema5m4fxyyf"
+    },
+    {
+        "domain": ".huazhu.com",
+        "expiry": 1946808966,
+        "httpOnly": false,
+        "name": "gr_user_id",
+        "path": "/",
+        "secure": false,
+        "value": "c6d71fd9-bed8-420d-9f5b-1334af9a6a4d"
+    },
+    {
+        "domain": ".huazhu.com",
+        "expiry": 1662984955,
+        "httpOnly": false,
+        "name": "c",
+        "path": "/",
+        "secure": false,
+        "value": "jd58VMkD-1631448926341-6bcae1c780e94-1241040692"
+    },
+    {
+        "domain": ".huazhu.com",
+        "expiry": 4101379200,
+        "httpOnly": false,
+        "name": "_hudVID",
+        "path": "/",
+        "secure": false,
+        "value": "d8e865e7-d868-f70f-ada2-2fc094fe49c7"
+    },
+    {
+        "domain": ".huazhu.com",
+        "expiry": 1631452522,
+        "httpOnly": false,
+        "name": "hud_refer",
+        "path": "/",
+        "secure": false,
+        "value": "m.huazhu.com/Home/Index|5000"
+    },
+    {
+        "domain": ".huazhu.com",
+        "httpOnly": false,
+        "name": "_hudSource",
+        "path": "/",
+        "secure": false,
+        "value": ""
+    },
+    {
+        "domain": ".huazhu.com",
+        "expiry": 1631450725,
+        "httpOnly": false,
+        "name": "gr_session_id_8f6e3e7f89d647cab9784afa81ea87bd",
+        "path": "/",
+        "secure": false,
+        "value": "0caef979-8705-43d5-8033-5162eb9ea813"
+    },
+    {
+        "domain": ".huazhu.com",
+        "expiry": 1662984963,
+        "httpOnly": false,
+        "name": "_efmdata",
+        "path": "/",
+        "secure": false,
+        "value": "%2Fg%2FSIlX4grIiylIKpigtyEXgNF4qX0Glt0%2BWWi%2B2ZkDrPTiwi%2BgFskUx4ysJaSn%2FlboKo5x2DeB8HtZFSaJfYslKZvRfKS0VXqrz8KktPCY%3D"
+    },
+    {
+        "domain": ".huazhu.com",
+        "expiry": 1662984963,
+        "httpOnly": false,
+        "name": "_fmdata",
+        "path": "/",
+        "secure": false,
+        "value": "Wxyjy5xlRvpseg4EgdeBXkbLavQlhYFyQBSqdVWsi32pRdIFXAWhNJgGhx%2BO04KrDP8MzRqxWOyPOJiF9a47ehvHgMfj5D3zWx8p8WvD1f4%3D"
+    },
+    {
+        "domain": ".huazhu.com",
+        "expiry": 4101379200,
+        "httpOnly": false,
+        "name": "_hudSID",
+        "path": "/",
+        "secure": false,
+        "value": "1631448921381_1"
+    },
+    {
+        "domain": "m.huazhu.com",
+        "httpOnly": true,
+        "name": "SESSION",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "M2YyZjJjMDQtZmZkYS00M2I5LTgxMjMtYTQzYzk4OWY4ZTkw"
+    }
+]
